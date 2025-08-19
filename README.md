@@ -7,6 +7,7 @@
 
 ## Things to do
 
-1. revise concept paper
+1. revise the concept paper
 2. revise manuscript
-3. make a callS
+3. make a call
+4. practice GIT
